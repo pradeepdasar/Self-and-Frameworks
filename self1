@@ -4,8 +4,12 @@ My responsibility is to understand Business Requirement Specification (BRS) and 
 My current project tools& technologies 
 My Project is being tested on automation where we have been using Selenium with Java and TestNG framework. And we have been using Page Object Model as well. For build management tool we have been using Maven, for version control we have been using Git and for defect management tool we are using Jira. 
 My Project is worked in Agile environment We have sprint cycle for 2 weeks ya that’s it.
+<<<<<<< HEAD
   
 
 Meghana vs .........
 sravani   vs prasad.....
 anil   vs pori,mardhal,uma,ma susi.....etc
+=======
+nagamani is very senior developer in this organization
+>>>>>>> 9af2087f6072ab98f2ef0bd07117418f0d35ff2f
